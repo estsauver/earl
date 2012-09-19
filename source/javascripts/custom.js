@@ -26,8 +26,8 @@ $(function(){
   $(".instagram").instagram({
     userId: 12845105,
     //hash: 'love',
-    clientId: 'c038b3d436624c2893e3623b18354c43',
-    accessToken: '145937522.c038b3d.e1709bd3843046f8bc67f45318920313',
+    clientId: '8f7dfca14fdc47b5be850b7c27a8e920',
+    accessToken: '12845105.8f7dfca.3add011af01c451b934ceaecd5957441',
     show: 4,
     onComplete: function(photos, data) {
       insta_next_url = data.pagination.next_url;
@@ -43,10 +43,10 @@ $(function(){
       button.text('Loading…');
       insta_container.instagram({
           userId: 12845105,
-          clientId: 'c038b3d436624c2893e3623b18354c43',
-          accessToken: '145937522.c038b3d.e1709bd3843046f8bc67f45318920313',
+          clientId: '8f7dfca14fdc47b5be850b7c27a8e920',
+          accessToken: '12845105.8f7dfca.3add011af01c451b934ceaecd5957441',
           next_url : insta_next_url,
-          show : 4,
+          show : 4, 
           onComplete : function(photos, data) {
             console.log(data);
             insta_next_url = data.pagination.next_url;

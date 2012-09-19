@@ -4,7 +4,7 @@
   <title><![CDATA[Caffeinated Coding]]></title>
   <link href="estsauver.herokuapp.com/atom.xml" rel="self"/>
   <link href="estsauver.herokuapp.com/"/>
-  <updated>2012-09-18T22:13:49-04:00</updated>
+  <updated>2012-09-19T16:41:21-04:00</updated>
   <id>estsauver.herokuapp.com/</id>
   <author>
     <name><![CDATA[Earl St Sauver]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google Plus: Surprisingly Satisfied]]></title>
+    <link href="estsauver.herokuapp.com/blog/2012/09/18/google-plus-im-surprisingly-satisfied/"/>
+    <updated>2012-09-18T22:00:00-04:00</updated>
+    <id>estsauver.herokuapp.com/blog/2012/09/18/google-plus-im-surprisingly-satisfied</id>
+    <content type="html"><![CDATA[<p>I opened Google+ yesterday and I was actually somewhat astonished by how <em>good</em> it just is. I didn&#8217;t expect it to be still actively improving after the soaring hopes and dashed expectations that acompanied the Google+ launch, but in the interim the Google+ team has substantailly improved the product. I think it will definitely gain traction over the next few years, and while it won&#8217;t probably eclipse facebook, I think it&#8217;ll gain market share over the next few years.</p>
+
+<!-- more -->
+
+
+<p>I think that the experience of Google+ is notably better than facebook in at least a few ways.</p>
+
+<ul>
+<li><p>The separation of content into streams is much more natural. Facebook still seems to drump everything that&#8217;s <em>social</em> into one gigantic vat of streaming content that I have to sort through to find information from people that I actually care about. Even being incredibly vindictive with the &#8220;Hide posts from&#8221; feature in facebook has still not managed to sort out the crap-a-lanche that is my newsfeed.</p>
+
+<p>Google Plus&#8217;s circles concept is really actually incredibly brilliant because it lets me change social contexts easily. When I&#8217;m home visitng family for a few weeks I can easily change the people that I&#8217;m interested in hearing about by just changing my circles setting.</p></li>
+<li><p>Google Chat/Hangouts are how I want to do my realtime communication with anyone, anywhere. With virtually everyone under the age of 30 on gmail at this point, it makes chatting incredibly easy and extensive. Hangouts are how I&#8217;d like all of my remote meetings to be done in the future. I can easily add a whiteboard, talk with multiple people, and send files related to the chat. It&#8217;s really the holy grail of consumer grade videoconfrencing as far as I can tell.</p>
+
+<p>The problem with the facebook chat model is that it still doesn&#8217;t to my knowledge, show everyone who is online and available as available for chat. It also complicates things by having &#8220;mobile&#8221; facebooking be sometimes online, sometimes marked as mobile, and sometimes offline. When I send a facebook caht to someone, I don&#8217;t know whether or not they&#8217;re reading it now or whether they&#8217;ll read it in a week when they next log in. That makes it virtually useless to me.</p></li>
+<li><p>The Google-sphere has not been corrupted by a thousand farmvilles and social reading apps. When I click on a link in Google+, I almost invariably get taken directly to whatever newspaper article was being linked to. That in and of itself is worth enough to make me reconsider.</p></li>
+</ul>
+
+
+<p>All in all, I think I will make a conscious effort to continue to use Google+ for a while. I really think it&#8217;s the solution that can and should win out in the long run. I just hope Google has the long range vision to continue to put the effort to keep up its development.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotter is now in development]]></title>
