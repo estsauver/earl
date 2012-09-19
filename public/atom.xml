@@ -4,7 +4,7 @@
   <title><![CDATA[Caffeinated Coding]]></title>
   <link href="estsauver.herokuapp.com/atom.xml" rel="self"/>
   <link href="estsauver.herokuapp.com/"/>
-  <updated>2012-09-18T21:26:20-04:00</updated>
+  <updated>2012-09-18T21:45:41-04:00</updated>
   <id>estsauver.herokuapp.com/</id>
   <author>
     <name><![CDATA[Earl St Sauver]]></name>
@@ -18,11 +18,14 @@
     <link href="estsauver.herokuapp.com/blog/2012/09/18/spotter-is-now-in-development/"/>
     <updated>2012-09-18T17:28:00-04:00</updated>
     <id>estsauver.herokuapp.com/blog/2012/09/18/spotter-is-now-in-development</id>
-    <content type="html"><![CDATA[<p>As a smart phone user, there are very few things that are still really frustrating. By and large, the operating systems for most major smartphones are at this point polished incredibly well. However, the process of switching between wifi and cellular network coverage is still mistifyingly bad. As the phone loses wifi strength, the transmission of data becomes increasingly less reliable on the poor network, but there&#8217;s no attempt made to establish a cellular connection.</p>
+    <content type="html"><![CDATA[<p>As a smart phone user, there are very few things that are still really frustrating. By and large, the operating systems for most major smartphones are, at this point, polished incredibly well. However, the process of switching between wifi and cellular network coverage is still mistifyingly bad. As the phone loses wifi strength, the transmission of data becomes increasingly less reliable on the poor network, but there&#8217;s no attempt made to establish a cellular connection.</p>
 
-<p>I&#8217;m tired of my phone acting completely startled every time it leaves wifi coverage, as if it had never happenned before to it.</p>
+<!-- more -->
 
-<p>I think we can fix this problem by using empirical models of where connections are dropped to perdict regions where wifi is likely to fail around a cell phone user. Using this information, I want to create a library that will allow application developers to take predictive action when their users are about to enter rough internet seas.</p>
+
+<p>It&#8217;s like my phone is absolutely startled that I walk around with it while accessing data. It always seems to act like nothing of this sort had ever happenned before.</p>
+
+<p>I think this can be fixed by using empirical models of where connections are dropped to perdict regions where wifi is likely to fail around a cell phone user. Using this information, I want to create a library that will allow application developers to take predictive action when their users are about to enter rough internet seas.</p>
 
 <p>I think this project will take roughly three phases.</p>
 

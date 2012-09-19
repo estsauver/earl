@@ -6,15 +6,15 @@ comments: true
 publish: false
 categories: [Spotter, Programming]
 ---
-As a smart phone user, there are very few things that are still really frustrating. By and large, the operating systems for most major smartphones are at this point polished incredibly well. However, the process of switching between wifi and cellular network coverage is still mistifyingly bad. As the phone loses wifi strength, the transmission of data becomes increasingly less reliable on the poor network, but there's no attempt made to establish a cellular connection. 
+As a smart phone user, there are very few things that are still really frustrating. By and large, the operating systems for most major smartphones are, at this point, polished incredibly well. However, the process of switching between wifi and cellular network coverage is still mistifyingly bad. As the phone loses wifi strength, the transmission of data becomes increasingly less reliable on the poor network, but there's no attempt made to establish a cellular connection. 
+<!-- more -->
+It's like my phone is absolutely startled that I walk around with it while accessing data. It always seems to act like nothing of this sort had ever happenned before. 
 
-I'm tired of my phone acting completely startled every time it leaves wifi coverage, as if it had never happenned before to it. 
-
-I think we can fix this problem by using empirical models of where connections are dropped to perdict regions where wifi is likely to fail around a cell phone user. Using this information, I want to create a library that will allow application developers to take predictive action when their users are about to enter rough internet seas. 
+I think this can be fixed by using empirical models of where connections are dropped to perdict regions where wifi is likely to fail around a cell phone user. Using this information, I want to create a library that will allow application developers to take predictive action when their users are about to enter rough internet seas. 
 
 I think this project will take roughly three phases. 
 
-1. ###Aquire data for as many network/wifi transitions as possible to model where these transitions occur.
+1. ### Aquire data for as many network/wifi transitions as possible to model where these transitions occur.
     
     As of the writing, it's unclear what the uncertainty for this transition is, when the effective wifi transmission stops, and when the cell network is switched over to. We'd like to have enough data, if only for a relatively small geographic area initially, that we can effectively model the wireless characteristics of a pilot area.
 
