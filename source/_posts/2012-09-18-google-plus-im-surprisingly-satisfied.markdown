@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google Plus: Surprisingly Satisfied"
+title: "Google Plus: Surprisingly Satisfing"
 date: 2012-09-18 22:00
 comments: true
 categories: [Social, Web, Google]
