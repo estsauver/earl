@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotter | Caffeinated Coding]]></title>
   <link href="estsauver.herokuapp.com/blog/categories/spotter/atom.xml" rel="self"/>
   <link href="estsauver.herokuapp.com/"/>
-  <updated>2012-09-21T19:33:32-04:00</updated>
+  <updated>2012-09-22T21:23:30-04:00</updated>
   <id>estsauver.herokuapp.com/</id>
   <author>
     <name><![CDATA[Earl St Sauver]]></name>
@@ -33,7 +33,7 @@
 
 <h3>Backend Work</h3>
 
-<p>I've now started design on the first chunk of data processing scripts. It almost immediately became clear that this stage will influence the type of data which we need in at least a few ways. First of all, once a suitable size of data has been collected, the collection of network data can switch from a background always on process to only checking "regions of interest" in the background. Once there's sufficient data collected it'll be possible to divide the data collection into two pieces. <strong>First</strong>, The data collection done by the library as the library is actively running and monitoring network drops. <strong>Second</strong>, A set of coordinate regions that are <em>of interest</em> to the database which the phone can turn on, take a couple measurements for, and then turn back off.</p>
+<p>I've now started design on the first chunk of data processing scripts. It almost immediately became clear that this stage will influence the type of data which we need in at least a few ways. First of all, once a suitable size of data has been collected, the collection of network data can switch from a background always on process to only checking "regions of interest" in the background. Once there's sufficient data collected it'll be possible to divide the data collection into two pieces. <strong>First</strong>  , The data collection done by the library as the library is actively running and monitoring network drops. <strong>Second</strong>, A set of coordinate regions that are <em>of interest</em> to the database which the phone can turn on, take a couple measurements for, and then turn back off.</p>
 
 <p>This will allow for smart collection of data. Once it becomes clear where the generally problematic areas in a region are, there's no reason to continually poll the phone to determine that there is, for instance, most definitively a dead zone at the enterance to the subway. We can limit the background polling to "interesting areas" where we get conflicting data.</p>
 
