@@ -4,7 +4,7 @@
   <title><![CDATA[Caffeinated Coding]]></title>
   <link href="estsauver.herokuapp.com/atom.xml" rel="self"/>
   <link href="estsauver.herokuapp.com/"/>
-  <updated>2012-09-22T21:28:47-04:00</updated>
+  <updated>2012-11-13T15:40:10-05:00</updated>
   <id>estsauver.herokuapp.com/</id>
   <author>
     <name><![CDATA[Earl St Sauver]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Documentation Meditation]]></title>
+    <link href="estsauver.herokuapp.com/blog/2012/09/23/documentation-meditation/"/>
+    <updated>2012-09-23T13:39:00-04:00</updated>
+    <id>estsauver.herokuapp.com/blog/2012/09/23/documentation-meditation</id>
+    <content type="html"><![CDATA[<p>I&#8217;ve spent quite a bit of time looking through the documentation from a number of very prominant companies and they definitely seem to have different styles of documentation that reflect different corporate personalities and different approaches to computing. The four companies that I&#8217;ve spent the most time digging through the documentation of, Google, Apple, Parse, and Heroku, all have incredible documentation that varies substantially in style.</p>
+
+<p>In a lot of ways, I think these differences define the developer relations with these companies. The primary way that most developers ultimately interact with many of these companies is through the documentation. Far more programmers will read a long piece of documentation than will ever have an email conversation with the support team (if there is one.)</p>
+
+<h2>Apple</h2>
+
+<p>I imagine that most Apple employees are either vulcans or graphic artists, with no one in between. All of their documentation either is a description of how things work on the C-code level or is an overly abstract description of the general principles that you should be applying. For example, take the Background Programming guide. There&#8217;s exactly two levels of information you can get from the docs, the atomic &#8220;this process takes these args and you need to send it this specific signal&#8221; and the incredibly granular descriptions of what kind of background processes are allowed. There&#8217;s source code available for an example app, but piecing things together from a big chunk of objective-C is less than ideal.</p>
+
+<h2>Google</h2>
+
+<p>Ahh, Google, Apple&#8217;s cousin who learned how to talk to other people during college. Google has a rather wondeful approach of combining</p>
+
+<h2>Parse</h2>
+
+<p>Parse fills an interesting niche in that a large amount of what they do is cross</p>
+
+<h2>Heroku</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Taking a Rest from Running]]></title>
@@ -42,7 +67,7 @@
     <link href="estsauver.herokuapp.com/blog/2012/09/21/spotter-beta-testers-wanted/"/>
     <updated>2012-09-21T17:01:00-04:00</updated>
     <id>estsauver.herokuapp.com/blog/2012/09/21/spotter-beta-testers-wanted</id>
-    <content type="html"><![CDATA[<p>With an Apple Developer account in hand, the Spotter project is off to a rocking start. I&#8217;d really love to start getting some user feedback for the app, even before it hits full functionality. The beta signup link is here [http://tflig.ht/QnqkjJ(http://tflig.ht/QnqkjJ). The wifi logging only happens when the application is currently open so the usefulness is inherently limited. The application should ideally run in the background for a long period of time until it&#8217;s disabled by the user.</p>
+    <content type="html"><![CDATA[<p>With an Apple Developer account in hand, the Spotter project is off to a rocking start. I&#8217;d really love to start getting some user feedback for the app, even before it hits full functionality. The beta signup link is here <a href="http://tflig.ht/QnqkjJ">http://tflig.ht/QnqkjJ</a>. The wifi logging only happens when the application is currently open so the usefulness is inherently limited. The application should ideally run in the background for a long period of time until it&#8217;s disabled by the user.</p>
 
 <!-- more -->
 

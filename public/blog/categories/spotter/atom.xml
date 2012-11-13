@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotter | Caffeinated Coding]]></title>
   <link href="estsauver.herokuapp.com/blog/categories/spotter/atom.xml" rel="self"/>
   <link href="estsauver.herokuapp.com/"/>
-  <updated>2012-09-22T21:28:47-04:00</updated>
+  <updated>2012-11-13T15:40:10-05:00</updated>
   <id>estsauver.herokuapp.com/</id>
   <author>
     <name><![CDATA[Earl St Sauver]]></name>
@@ -18,7 +18,7 @@
     <link href="estsauver.herokuapp.com/blog/2012/09/21/spotter-beta-testers-wanted/"/>
     <updated>2012-09-21T17:01:00-04:00</updated>
     <id>estsauver.herokuapp.com/blog/2012/09/21/spotter-beta-testers-wanted</id>
-    <content type="html"><![CDATA[<p>With an Apple Developer account in hand, the Spotter project is off to a rocking start. I'd really love to start getting some user feedback for the app, even before it hits full functionality. The beta signup link is here [http://tflig.ht/QnqkjJ(http://tflig.ht/QnqkjJ). The wifi logging only happens when the application is currently open so the usefulness is inherently limited. The application should ideally run in the background for a long period of time until it's disabled by the user.</p>
+    <content type="html"><![CDATA[<p>With an Apple Developer account in hand, the Spotter project is off to a rocking start. I'd really love to start getting some user feedback for the app, even before it hits full functionality. The beta signup link is here <a href="http://tflig.ht/QnqkjJ">http://tflig.ht/QnqkjJ</a>. The wifi logging only happens when the application is currently open so the usefulness is inherently limited. The application should ideally run in the background for a long period of time until it's disabled by the user.</p>
 
 <!-- more -->
 
