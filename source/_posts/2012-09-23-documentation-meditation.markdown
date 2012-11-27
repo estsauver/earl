@@ -4,6 +4,7 @@ title: "Documentation Meditation"
 date: 2012-09-23 13:39
 comments: true
 categories: [Programming, Web]
+published: false
 ---
 I've spent quite a bit of time looking through the documentation from a number of very prominant companies and they definitely seem to have different styles of documentation that reflect different corporate personalities and different approaches to computing. The four companies that I've spent the most time digging through the documentation of, Google, Apple, Parse, and Heroku, all have incredible documentation that varies substantially in style. 
 
