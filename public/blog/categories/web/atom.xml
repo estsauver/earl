@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web | Caffeinated Coding]]></title>
+  <link href="estsauver.herokuapp.com/blog/categories/web/atom.xml" rel="self"/>
+  <link href="estsauver.herokuapp.com/"/>
+  <updated>2012-11-27T14:21:16-05:00</updated>
+  <id>estsauver.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[Earl St Sauver]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Documentation Meditation]]></title>
+    <link href="estsauver.herokuapp.com/blog/2012/09/23/documentation-meditation/"/>
+    <updated>2012-09-23T13:39:00-04:00</updated>
+    <id>estsauver.herokuapp.com/blog/2012/09/23/documentation-meditation</id>
+    <content type="html"><![CDATA[<p>I've spent quite a bit of time looking through the documentation from a number of very prominant companies and they definitely seem to have different styles of documentation that reflect different corporate personalities and different approaches to computing. The four companies that I've spent the most time digging through the documentation of, Google, Apple, Parse, and Heroku, all have incredible documentation that varies substantially in style.</p>
+
+<p>In a lot of ways, I think these differences define the developer relations with these companies. The primary way that most developers ultimately interact with many of these companies is through the documentation. Far more programmers will read a long piece of documentation than will ever have an email conversation with the support team (if there is one.)</p>
+
+<h2>Apple</h2>
+
+<p>I imagine that most Apple employees are either vulcans or graphic artists, with no one in between. All of their documentation either is a description of how things work on the C-code level or is an overly abstract description of the general principles that you should be applying. For example, take the Background Programming guide. There's exactly two levels of information you can get from the docs, the atomic "this process takes these args and you need to send it this specific signal" and the incredibly granular descriptions of what kind of background processes are allowed. There's source code available for an example app, but piecing things together from a big chunk of objective-C is less than ideal.</p>
+
+<h2>Google</h2>
+
+<p>Ahh, Google, Apple's cousin who learned how to talk to other people during college. Google has a rather wondeful approach of combining</p>
+
+<h2>Parse</h2>
+
+<p>Parse fills an interesting niche in that a large amount of what they do is cross</p>
+
+<h2>Heroku</h2>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google Plus: Surprisingly Satisfing]]></title>
+    <link href="estsauver.herokuapp.com/blog/2012/09/18/google-plus-im-surprisingly-satisfied/"/>
+    <updated>2012-09-18T22:00:00-04:00</updated>
+    <id>estsauver.herokuapp.com/blog/2012/09/18/google-plus-im-surprisingly-satisfied</id>
+    <content type="html"><![CDATA[<p>I opened Google+ yesterday and I was actually somewhat astonished by how <em>good</em> it just is. I didn't expect it to be still actively improving after the soaring hopes and dashed expectations that acompanied the Google+ launch, but in the interim the Google+ team has substantailly improved the product. I think it will definitely gain traction over the next few years, and while it won't probably eclipse facebook, I think it'll gain market share over the next few years.</p>
+
+<!-- more -->
+
+
+<p>I think that the experience of Google+ is notably better than facebook in at least a few ways.</p>
+
+<ul>
+<li><p>The separation of content into streams is much more natural. Facebook still seems to drump everything that's <em>social</em> into one gigantic vat of streaming content that I have to sort through to find information from people that I actually care about. Even being incredibly vindictive with the "Hide posts from" feature in facebook has still not managed to sort out the crap-a-lanche that is my newsfeed.</p>
+
+<p>Google Plus's circles concept is really actually incredibly brilliant because it lets me change social contexts easily. When I'm home visitng family for a few weeks I can easily change the people that I'm interested in hearing about by just changing my circles setting.</p></li>
+<li><p>Google Chat/Hangouts are how I want to do my realtime communication with anyone, anywhere. With virtually everyone under the age of 30 on gmail at this point, it makes chatting incredibly easy and extensive. Hangouts are how I'd like all of my remote meetings to be done in the future. I can easily add a whiteboard, talk with multiple people, and send files related to the chat. It's really the holy grail of consumer grade videoconfrencing as far as I can tell.</p>
+
+<p>The problem with the facebook chat model is that it still doesn't to my knowledge, show everyone who is online and available as available for chat. It also complicates things by having "mobile" facebooking be sometimes online, sometimes marked as mobile, and sometimes offline. When I send a facebook caht to someone, I don't know whether or not they're reading it now or whether they'll read it in a week when they next log in. That makes it virtually useless to me.</p></li>
+<li><p>The Google-sphere has not been corrupted by a thousand farmvilles and social reading apps. When I click on a link in Google+, I almost invariably get taken directly to whatever newspaper article was being linked to. That in and of itself is worth enough to make me reconsider.</p></li>
+</ul>
+
+
+<p>All in all, I think I will make a conscious effort to continue to use Google+ for a while. I really think it's the solution that can and should win out in the long run. I just hope Google has the long range vision to continue to put the effort to keep up its development.</p>
+]]></content>
+  </entry>
+  
+</feed>
